@@ -1,0 +1,17 @@
+$info : #b3d0ff;
+$warning: #f5ca99;
+
+.nav-btn:hover {
+    transform: translateY(-3px);
+    transition: 0.5s;
+}
+
+
+
+
+
+
+
+
+@import '../node_modules/bootstrap-icons/font/bootstrap-icons.scss';
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
